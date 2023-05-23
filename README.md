@@ -197,6 +197,7 @@
     },```
 
   ## running web server
+
   ```npm run web 
 
   > ReactFirebaseTest001@0.0.1 web
@@ -211,7 +212,9 @@
   <i> [webpack-dev-middleware] wait until bundle finished: /
   asset bundle.js 1.73 MiB [emitted] (name: main)
   310 modules
-  webpack 5.83.1 compiled successfully in 10403 ms```
+  webpack 5.83.1 compiled successfully in 10403 ms
+  
+  ```
 
  - this is the resut of the running bundle
 
