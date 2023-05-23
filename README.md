@@ -165,7 +165,9 @@
           <div id="root"></div>
           <script src="bundle.js"></script>
         </body>
-      </html>```
+      </html>
+  
+  ```
 
   - in fisierul modifica 'metro.config.js' :
 
